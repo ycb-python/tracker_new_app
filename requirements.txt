@@ -1,0 +1,4 @@
+Flask
+Flask-Cors
+selenium
+webdriver_manager
